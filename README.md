@@ -7,7 +7,7 @@ CozmoGPT is a project that aims to provide Cozmo with some basic AI functionalit
 3. Python 3.9 from https://www.python.org/downloads/
 4. An extracted Vosk model from https://alphacephei.com/vosk/models
 5. Packages/Dependencies: PyTorch, Transformers, PyAudio, Vosk, Ascyncio, Cozmo, and Keyboard. To get these dependenccies, run "pip install PyTorch Transformers PyAudio Vosk Ascyncio Cozmo Keyboard"
-6. Lastest release of CozmoGPT from https://github.com/BedEpicCool/CozmoGPT/releases/
+6. Lastest release of CozmoGPT from https://github.com/BedEpicCool/CozmoGPT/tags
 
 # Setup
 1. Add the path to where you downloaded your vosk model in main.py (specific instructions located in the aforementioned file).
